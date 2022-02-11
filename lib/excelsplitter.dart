@@ -122,7 +122,7 @@ class _ExcelSplitterState extends State<ExcelSplitter> {
       home: Scaffold(
         key: _scaffoldKey,
         appBar: AppBar(
-          title: const Text('File Picker example app'),
+          title: const Text('Excel Even/Odd Splitter'),
         ),
         body: Center(
           child: Padding(
