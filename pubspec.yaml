@@ -37,6 +37,7 @@ dependencies:
   excel: ^1.1.5
   pluto_grid: ^2.9.2
   file_picker: ^4.3.3
+  i18n: ^3.0.1
 
 dev_dependencies:
   flutter_test:
