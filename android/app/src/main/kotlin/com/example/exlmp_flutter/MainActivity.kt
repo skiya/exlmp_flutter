@@ -1,4 +1,4 @@
-package com.example.exlmp_flutter
+package com.neptunias.exlmp_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

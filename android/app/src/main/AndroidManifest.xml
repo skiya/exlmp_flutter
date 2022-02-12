@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.exlmp_flutter">
+    package="com.neptunias.exlmp_flutter">
    <application
         android:label="exlmp_flutter"
         android:name="${applicationName}"
